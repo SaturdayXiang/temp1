@@ -4,4 +4,8 @@ second use git. 0529
 
 Saturday write sth 
 
+<<<<<<< HEAD
 dev_zhang
+=======
+dev_li
+>>>>>>> dev_li
